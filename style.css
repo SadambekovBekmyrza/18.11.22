@@ -4,3 +4,8 @@
 body {
   margin: 0;
 }
+.one {
+  text-align: center;
+  align-items: center;
+  color: blue;
+}
